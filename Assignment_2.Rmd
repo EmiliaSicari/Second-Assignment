@@ -22,7 +22,7 @@ Nevertheless, more empirical research is needed in order to identify the factors
 
 This paper seeks to answer a simple question:
 
-**How strong is the relationship between a country’s degree of dependence on naturalresource rents and its corruption level?**
+**How strong is the relationship between a country’s degree of dependence on natural resource rents and its corruption level?**
 
 Our preliminary hypothesis is that the answer is yes, higher levels of resource dependency are associated with higher levels of corruption, across countries and within countries across time. This is what the existing empirical evidence suggests (see among others @leite1999 and @sala2003). 
 
