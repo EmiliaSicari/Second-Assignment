@@ -1,0 +1,105 @@
+\begin{thebibliography}{17}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Ades and Tella(1996)]{ades1996}
+Alberto Ades and Rafael~Di Tella.
+\newblock The causes and consequences of corruption: a review of recent
+  empirical contributions.
+\newblock \emph{IDs bulletin}, 27\penalty0 (2):\penalty0 6--11, 1996.
+
+\bibitem[Azfar et~al.(2001)Azfar, Lee, and Swamy]{azfar2001}
+Omar Azfar, Young Lee, and Anand Swamy.
+\newblock The causes and consequences of corruption.
+\newblock \emph{The Annals of the American Academy of Political and Social
+  Science}, 573\penalty0 (1):\penalty0 42--56, 2001.
+
+\bibitem[Bhattacharyya and Hodler(2010)]{bhattacharyya2010}
+Sambit Bhattacharyya and Roland Hodler.
+\newblock Natural resources, democracy and corruption.
+\newblock \emph{European Economic Review}, 54\penalty0 (4):\penalty0 608--621,
+  2010.
+
+\bibitem[Brown(2006)]{brown2006}
+Alexander~Jonathan Brown.
+\newblock What are we trying to measure? reviewing the basics of corruption
+  definition.
+\newblock \emph{Measuring corruption}, pages 57--79, 2006.
+
+\bibitem[Group(2014)]{WDI}
+The World~Bank Group.
+\newblock {World Development Indicators (WGI)} project, 2014.
+\newblock URL \url{http://wdi.worldbank.org/table/3.15}.
+
+\bibitem[Gupta and Abed(2002)]{gupta2002}
+Mr~Sanjeev Gupta and Mr~George~T Abed.
+\newblock \emph{Governance, corruption, and economic performance}.
+\newblock International Monetary Fund, 2002.
+
+\bibitem[Leite and Weidmann(1999)]{leite1999}
+Carlos~A Leite and Jens Weidmann.
+\newblock Does mother nature corrupt? natural resources, corruption, and
+  economic growth.
+\newblock \emph{Natural Resources, Corruption, and Economic Growth (June 1999).
+  IMF Working Paper}, \penalty0 (99/85), 1999.
+
+\bibitem[Mauro(1998)]{mauro1998}
+Paolo Mauro.
+\newblock Corruption: causes, consequences, and agenda for further research.
+\newblock \emph{Finance and Development}, 35:\penalty0 11--14, 1998.
+
+\bibitem[Mehlum et~al.(2006)Mehlum, Moene, and Torvik]{mehlum2006}
+Halvor Mehlum, Karl Moene, and Ragnar Torvik.
+\newblock Institutions and the resource curse*.
+\newblock \emph{The economic journal}, 116\penalty0 (508):\penalty0 1--20,
+  2006.
+
+\bibitem[Michael(2009)]{michael2009}
+Bryane Michael.
+\newblock The evolution of the anti-corruption industry in the third wave of
+  anti-corruption work.
+\newblock 2009.
+
+\bibitem[Pendergast(2007)]{pendergast2007}
+Shannon~Marie Pendergast.
+\newblock \emph{Corruption and the curse of natural resources}.
+\newblock PhD thesis, University of Victoria, 2007.
+
+\bibitem[Robinson and Acemoglu(2012)]{robinson2012nations}
+AD~Robinson and R~Acemoglu.
+\newblock Why nations fail.
+\newblock \emph{The Origins of Power, Prosperity and Poverty, Nueva Y ork},
+  2012.
+
+\bibitem[Ross(2012)]{ross2012oil}
+Michael Ross.
+\newblock \emph{The oil curse: how petroleum wealth shapes the development of
+  nations}.
+\newblock Princeton University Press, 2012.
+
+\bibitem[Sachs and Warner(1995)]{sachs1995}
+Jeffrey~D Sachs and Andrew~M Warner.
+\newblock Natural resource abundance and economic growth.
+\newblock Technical report, National Bureau of Economic Research, 1995.
+
+\bibitem[Sachs and Warner(2001)]{sachs2001}
+Jeffrey~D Sachs and Andrew~M Warner.
+\newblock The curse of natural resources.
+\newblock \emph{European economic review}, 45\penalty0 (4):\penalty0 827--838,
+  2001.
+
+\bibitem[Sala-i Martin and Subramanian(2003)]{sala2003}
+Xavier Sala-i Martin and Arvind Subramanian.
+\newblock Addressing the natural resource curse: An illustration from nigeria.
+\newblock Technical report, National Bureau of Economic Research, 2003.
+
+\bibitem[Shaxson(2007)]{shaxson2007}
+Nicholas Shaxson.
+\newblock Oil, corruption and the resource curse.
+\newblock \emph{International Affairs}, 83\penalty0 (6):\penalty0 1123--1140,
+  2007.
+
+\end{thebibliography}

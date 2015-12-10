@@ -6,6 +6,14 @@ output: pdf_document
   
 bibliography: Bibliography_A2.bib
 ---
+
+```{r, echo=FALSE, warning=FALSE, error=FALSE, message=FALSE, include=FALSE, results = 'asis'}
+# Set working directory
+getwd()
+try(setwd("/Users/Natalia/Documents/GitHub/Final-Project/Website"), silent = TRUE)
+try(setwd("/Users/Gabriel/Desktop/Final-Project/Website"), silent = TRUE)
+```
+
 ## 1. Introduction 
 
 ###Corruption: An endemic disease?
